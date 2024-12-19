@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Fixed {
+    height: 200px;
+}
+
+.Percentage {
+    height: 50%;
+}
+
+.Viewport {
+    height: 50vh;
+}
+
+.Min-Max {
+    min-height: 100px;
+    max-height: 300px;
+}
+
+div{
+    border: 1px solid black;
+}
+
+p{
+    padding-left: 5px;
+}

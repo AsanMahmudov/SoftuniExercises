@@ -1,0 +1,15 @@
+.Uniform{
+    padding: 20px;
+}
+
+.Non-Uniform{
+    padding: 10px 30px 20px 40px;
+}
+
+.Percentage-Padding{
+    padding: 5%;
+}
+
+div{
+    border: 2px solid black;
+}

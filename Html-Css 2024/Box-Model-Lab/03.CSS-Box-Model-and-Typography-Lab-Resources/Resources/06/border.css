@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0  ;
+}
+
+
+
+.solid{
+    border: 4px solid black;
+}
+
+.dashed{
+    border: 3ps dashed #333;
+}
+
+.dotted{
+    border: 2px dotted #666;
+}
+
+.mixed{
+    border-left: 4px solid #000;
+    border-right: 4px solid #000;
+    border-bottom: 3px dashed #333;
+    border-top: 3px dashed #333;
+}

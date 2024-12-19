@@ -1,0 +1,22 @@
+.font-1{
+    font-family: Arial, sans-serif;
+}
+
+.font-2{
+    font-size: 24px;
+}
+.font-3{
+    font-weight: bold;
+}
+.font-4{
+         font-style: italic;
+}
+.font-5{
+    font-variant: small-caps;
+}
+
+div {
+ border: 3px solid rosybrown;
+ margin-bottom: 10px;
+}
+

@@ -1,0 +1,19 @@
+.Fixed {
+    width: 300px;
+}
+
+.Percentage {
+    width: 50%;
+}
+
+.Viewport{
+    width: 50vw;
+}
+.Min-Max{
+    min-width: 100px;
+    max-width: 300px;
+}
+
+div{
+    border: 1px solid black;
+}

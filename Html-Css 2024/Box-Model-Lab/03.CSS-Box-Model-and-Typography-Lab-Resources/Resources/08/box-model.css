@@ -1,0 +1,22 @@
+
+div{
+    border: 4px ridge red;
+    box-sizing: border-box;
+    height: 100px;
+    width: 300px;
+}
+
+.visible{
+    overflow: visible;
+}
+.hidden{
+    overflow: hidden;
+}
+.scroll{
+    overflow: auto;
+    width: 100pt;
+}
+
+p, h1{
+    font-size: 20px;
+}
